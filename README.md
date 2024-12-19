@@ -1,5 +1,5 @@
 # Gender Bias in Media Coverage of Female Politicians: A Comparative Study of the United States and the United Kingdom
-
+Chloe Yu
 ## Abstract
 This study explores gender bias in media coverage of political figures, specifically comparing the portrayal of female and male politicians in the United States and the United Kingdom. The research focuses on Kamala Harris and Donald Trump in the U.S., and Liz Truss and Rishi Sunak in the U.K., analyzing news articles during key political events. Through keyword frequency analysis and TF-IDF techniques, the study reveals that female politicians are more likely to be associated with softer, less authoritative issues, while male politicians are often linked to leadership, economic, and international topics. However, the U.K. sample showed smaller gender differences than the U.S., likely due to the ideological similarities between Truss and Sunak. Despite some lingering gender biases, the study suggests that the media landscape may be slowly moving towards greater gender equality, as the differences in coverage between female and male politicians are becoming more subtle. These findings contribute to ongoing discussions about media representation and its impact on public perceptions of female leadership.
 
